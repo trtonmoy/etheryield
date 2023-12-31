@@ -2630,7 +2630,7 @@ body.rtl .elementor-10 .elementor-element.elementor-element-0df1d64 {
 .elementor-10
   .elementor-element.elementor-element-5c9c85aa
   > .elementor-widget-container {
-  background-color: var(--e-global-color-accent);
+  /* background-color: var(--e-global-color-accent); */
   border-radius: 30px 30px 30px 30px;
 }
 .elementor-10 .elementor-element.elementor-element-cc88370 {
