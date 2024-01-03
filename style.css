@@ -8812,3 +8812,17 @@ body.rtl .elementor-10 .elementor-element.elementor-element-4dd14555 {
     margin-left: unset;
   }
 }
+
+/* my css */
+.button-grp {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+@media (max-width: 576px) {
+  .button-grp {
+    flex-direction: column;
+    gap: 15px;
+  }
+}
